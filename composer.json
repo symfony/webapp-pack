@@ -1,0 +1,38 @@
+{
+    "name": "symfony/webapp-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A webapp pack on top of the default skeleton",
+    "require": {
+        "sensio/framework-extra-bundle": "^6.1",
+        "symfony/asset": "*",
+        "symfony/debug-pack": "*",
+        "symfony/expression-language": "*",
+        "symfony/form": "*",
+        "symfony/http-client": "*",
+        "symfony/intl": "*",
+        "symfony/mailer": "*",
+        "symfony/maker-bundle": "^1.0",
+        "symfony/messenger": "*",
+        "symfony/mime": "*",
+        "symfony/monolog-bundle": "^3.1",
+        "symfony/notifier": "*",
+        "symfony/orm-pack": "*",
+        "symfony/process": "*",
+        "symfony/profiler-pack": "*",
+        "symfony/security-bundle": "*",
+        "symfony/serializer-pack": "*",
+        "symfony/string": "*",
+        "symfony/translation": "*",
+        "symfony/twig-pack": "*",
+        "symfony/validator": "*",
+        "symfony/web-link": "*",
+        "symfony/webapp-meta": "*",
+        "symfony/webpack-encore-bundle": "^1.12"
+    },
+    "require-dev": {
+        "symfony/debug-pack": "*",
+        "symfony/profiler-pack": "*",
+        "symfony/maker-bundle": "^1.0"
+    }
+}
