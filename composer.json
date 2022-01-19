@@ -36,6 +36,6 @@
         "symfony/maker-bundle": "^1.0"
     },
     "conflict": {
-        "symfony/framework-bundle": "<5.0",
+        "symfony/framework-bundle": "<5.0"
     }
 }
