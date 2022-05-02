@@ -4,6 +4,7 @@
     "license": "MIT",
     "description": "A webapp pack on top of the default skeleton",
     "require": {
+        "nelmio/security-bundle": "^3.0",
         "symfony/asset": "*",
         "symfony/debug-pack": "*",
         "symfony/doctrine-messenger": "*",
