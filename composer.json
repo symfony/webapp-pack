@@ -23,6 +23,7 @@
         "symfony/security-bundle": "*",
         "symfony/serializer-pack": "*",
         "symfony/string": "*",
+        "symfony/test-pack": "*",
         "symfony/translation": "*",
         "symfony/twig-pack": "*",
         "symfony/validator": "*",
@@ -33,7 +34,8 @@
     "require-dev": {
         "symfony/debug-pack": "*",
         "symfony/profiler-pack": "*",
-        "symfony/maker-bundle": "^1.0"
+        "symfony/maker-bundle": "^1.0",
+        "symfony/test-pack": "*"
     },
     "conflict": {
         "symfony/framework-bundle": "<5.0"
