@@ -28,7 +28,6 @@
         "symfony/twig-pack": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*",
-        "symfony/webapp-meta": "*",
         "symfony/webpack-encore-bundle": "^1.12"
     },
     "require-dev": {
