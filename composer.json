@@ -4,7 +4,6 @@
     "license": "MIT",
     "description": "A webapp pack on top of the default skeleton",
     "require": {
-        "sensio/framework-extra-bundle": "^6.1",
         "symfony/asset": "*",
         "symfony/debug-pack": "*",
         "symfony/doctrine-messenger": "*",
@@ -36,6 +35,6 @@
         "symfony/test-pack": "*"
     },
     "conflict": {
-        "symfony/framework-bundle": "<5.0"
+        "symfony/framework-bundle": "<6.2"
     }
 }
