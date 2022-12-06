@@ -35,6 +35,6 @@
         "symfony/test-pack": "*"
     },
     "conflict": {
-        "symfony/framework-bundle": "<6.2"
+        "symfony/framework-bundle": "<5.0"
     }
 }
