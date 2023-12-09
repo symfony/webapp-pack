@@ -5,6 +5,7 @@
     "description": "A webapp pack on top of the default skeleton",
     "require": {
         "symfony/asset": "*",
+        "symfony/asset-mapper": "*",
         "symfony/debug-pack": "*",
         "symfony/doctrine-messenger": "*",
         "symfony/expression-language": "*",
@@ -25,6 +26,8 @@
         "symfony/test-pack": "*",
         "symfony/translation": "*",
         "symfony/twig-pack": "*",
+        "symfony/stimulus-bundle": "*",
+        "symfony/ux-turbo": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*"
     },
