@@ -22,11 +22,11 @@
         "symfony/profiler-pack": "*",
         "symfony/security-bundle": "*",
         "symfony/serializer-pack": "*",
+        "symfony/stimulus-bundle": "*",
         "symfony/string": "*",
         "symfony/test-pack": "*",
         "symfony/translation": "*",
         "symfony/twig-pack": "*",
-        "symfony/stimulus-bundle": "*",
         "symfony/ux-turbo": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*"
