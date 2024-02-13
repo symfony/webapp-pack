@@ -38,6 +38,7 @@
         "symfony/test-pack": "*"
     },
     "conflict": {
-        "symfony/framework-bundle": "<5.0"
+        "symfony/framework-bundle": "<5.0",
+        "doctrine/dbal": ">=4.0"
     }
 }
