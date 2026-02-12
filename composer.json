@@ -28,6 +28,7 @@
         "symfony/translation": "*",
         "symfony/twig-pack": "*",
         "symfony/ux-turbo": "*",
+        "symfony/ux-twig-component": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*"
     },
@@ -35,7 +36,8 @@
         "symfony/debug-pack": "*",
         "symfony/profiler-pack": "*",
         "symfony/maker-bundle": "^1.0",
-        "symfony/test-pack": "*"
+        "symfony/test-pack": "*",
+        "symfony/ux-toolkit": "*"
     },
     "conflict": {
         "symfony/framework-bundle": "<6.3"
