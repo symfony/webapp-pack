@@ -4,6 +4,7 @@
     "license": "MIT",
     "description": "A webapp pack on top of the default skeleton",
     "require": {
+        "opis/json-schema": "^2.6",
         "symfony/asset": "*",
         "symfony/asset-mapper": "*",
         "symfony/debug-pack": "*",
@@ -32,6 +33,7 @@
         "symfony/web-link": "*"
     },
     "require-dev": {
+        "opis/json-schema": "^2.6",
         "symfony/debug-pack": "*",
         "symfony/profiler-pack": "*",
         "symfony/maker-bundle": "^1.0",
