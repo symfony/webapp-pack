@@ -29,7 +29,9 @@
         "symfony/twig-pack": "*",
         "symfony/ux-turbo": "*",
         "symfony/validator": "*",
-        "symfony/web-link": "*"
+        "symfony/web-link": "*",
+        "twig/cssinliner-extra": "^3.0",
+        "twig/inky-extra": "^3.0"
     },
     "require-dev": {
         "symfony/debug-pack": "*",
